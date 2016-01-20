@@ -1,0 +1,10 @@
+main.o: main.c main.h ../../config.h ../lib_foo/foo.h \
+ /usr/local/include/mistery.h
+
+main.h:
+
+../../config.h:
+
+../lib_foo/foo.h:
+
+/usr/local/include/mistery.h:
