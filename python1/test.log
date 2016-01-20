@@ -1,0 +1,8 @@
+https://www.google.fr/ <-- [none]
+https://en.wikipedia.org/wiki/Main_Page  <--  https://www.google.fr/
+https://www.google.fr/ <-- [none]
+https://en.wikipedia.org/wiki/HTTP_referer <-- https://en.wikipedia.org/wiki/Main_Page
+https://en.wiktionary.org/wiki/referrer  <--  https://www.google.fr/
+https://www.google.fr/ <-- https://www.google.fr/ 
+https://en.wiktionary.org/wiki/referrer <-- [none]
+https://tools.ietf.org/html/rfc7231 <-- https://en.wikipedia.org/wiki/HTTP_referer
